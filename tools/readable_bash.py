@@ -116,7 +116,7 @@ def generate_documentation():
         <div class="col-xs-12">
         <h1>Build Your Own Mail Server From Scratch</h1>
         <p>Here&rsquo;s how you can build your own mail server from scratch.</p>
-        <p>This document is generated automatically from <a href="https://mailinabox.email">Mail-in-a-Box</a>&rsquo;s setup script <a href="https://github.com/mail-in-a-box/mailinabox">source code</a>.</p>
+        <p>This document is generated automatically from <a href="https://mailinabox.email">Mail-in-a-Box</a>&rsquo;s setup script <a href="https://github.com/quangpham/mailinabox">source code</a>.</p>
         <hr>
       </div>
     </div>
@@ -409,7 +409,7 @@ class BashScript(Grammar):
 		result = parser.parse_string(string)
 
 		v = "<div class='row'><div class='col-xs-12 sourcefile'>view the bash source for the following section at <a href=\"%s\">%s</a></div></div>\n" \
-			 % ("https://github.com/mail-in-a-box/mailinabox/tree/master/" + fn, fn)
+			 % ("https://github.com/quangpham/mailinabox/tree/master/" + fn, fn)
 
 		mode = 0
 		for item in result.value():

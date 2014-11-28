@@ -1,7 +1,7 @@
 Mail-in-a-Box
 =============
 
-By [@JoshData](https://github.com/JoshData) and [contributors](https://github.com/mail-in-a-box/mailinabox/graphs/contributors).
+By [@JoshData](https://github.com/JoshData) and [contributors](https://github.com/quangpham/mailinabox/graphs/contributors).
 
 Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 
@@ -19,7 +19,7 @@ I am trying to:
 
 The long-term goal is to have this be a one-click email appliance with *no* user-configurable setup options.
 
-For more background, see [The Rationale](https://github.com/mail-in-a-box/mailinabox/wiki).
+For more background, see [The Rationale](https://github.com/quangpham/mailinabox/wiki).
 
 This setup is what has been powering my own personal email since September 2013.
 
